@@ -1,22 +1,42 @@
-body{background-color: white}
-.navbar{font-size: 140%;
-    background-color: rgba(0, 0, 0, 0.788); 
+body {
+    background-color: white
+}
+
+.navbar {
+    font-size: 140%;
+    background-color: rgba(0, 0, 0, 0.788);
     padding-left: 4%;
 }
-.h1{font-family: fantasy;
-text-align: center;
-margin: 2%;}
-.jumbotron{background-color: rgba(102, 106, 110, 0.76);
+
+.h1 {
+    font-family: fantasy;
+    text-align: center;
+    margin: 2%;
+}
+
+.jumbotron {
+    background-color: rgba(102, 106, 110, 0.76);
     margin-top: 5%;
 }
-.fab{padding-left: 200px}
-.par{font-size: 100%;
-    text-align: center;
-margin-left: 8%;
-margin-right: 8%}
-.activ{background-image: url(imagenes/act.jpg);
-color: white;
-padding-top: 0.5%}
-#formulario{background-image: url(imagenes/mapa.png)};
 
+.fab {
+    padding-left: 200px
+}
+
+.par {
+    font-size: 100%;
+    text-align: center;
+    margin-left: 8%;
+    margin-right: 8%
+}
+
+.activ {
+    background-image: url(imagenes/act.jpg);
+    color: white;
+    padding-top: 0.5%
+}
+
+#contacto {
+    background-image: url(imagenes/mapa.png)
+}
 
