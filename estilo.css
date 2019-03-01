@@ -40,3 +40,8 @@ body {
     background-image: url(imagenes/mapa.png)
 }
 
+.footer {
+    background-color: grey;
+    text-align: center;
+}
+
